@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.headimg {
+  border-radius: 5px;
+}
+
+.headAboutevent {
+  font-family: "Roboto";
+  font-style: normal;
+  color: #20c0e8;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+/* .col1{
+width: 58.7%;
+} */
+
+.headtext {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 23px;
+}
+
+.card2text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.01rem;
+  color: #181818;
+}
+
+.buttonintitle {
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  color: white;
+  padding: 15px 14px 16px 14px;
+  margin-right: 5px;
+}
+
+.cardicon {
+  color: #20c0e8;
+}
+
+.icontext {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+  margin-left: 9px;
+}
+
+.stepout {
+  background-color: #fafafa;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  color: #20c0e8;
+  line-height: 18px;
+}
+
+.buttonincard {
+  background-color: #20c0e8;
+  color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  padding: 6px 14px;
+}
+
+.textinbutton {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.jimimg {
+  border-radius: 50%;
+}
+
+.textjim {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
+
+.fromusa {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  color: #7b7b7b;
+}
+
+.berlin {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #20c0e8;
+}
+
+.hotelberlin {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #5b5b5b;
+}
+
